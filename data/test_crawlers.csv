@@ -1,0 +1,4 @@
+provider,token,category,automatic_crawler,robots_txt_behavior,primary_purpose,source_url,source_checked
+A,one,search,True,honors,find,url-a,2026-01-01
+A,two,training,True,honors,train,url-a,2026-01-01
+B,three,search,False,unknown,find,url-b,2026-01-01
